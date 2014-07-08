@@ -1,0 +1,30 @@
+{
+  "name": "angular-amap-geolocation",
+  "main": [
+    "angular-amap-geolocation.js",
+    "angular-amap-geolocation-service.js",
+    "angular-amap-geolocation-directive.js"
+  ],
+  "version": "0.1.0",
+  "authors": [
+    "L42y <423300@gmail.com>"
+  ],
+  "description": "Geolocation service & directive of Amap",
+  "keywords": [
+    "angular",
+    "geolocation",
+    "amap"
+  ],
+  "license": "WTFPL",
+  "homepage": "https://github.com/L42y/angular-amap-geolocation",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-amap-map": "L42y/angular-amap-map#~0.1.0"
+  }
+}
